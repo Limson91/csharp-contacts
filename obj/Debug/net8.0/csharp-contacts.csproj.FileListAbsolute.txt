@@ -1,0 +1,14 @@
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/bin/Debug/net8.0/csharp-contacts
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/bin/Debug/net8.0/csharp-contacts.deps.json
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/bin/Debug/net8.0/csharp-contacts.runtimeconfig.json
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/bin/Debug/net8.0/csharp-contacts.dll
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/bin/Debug/net8.0/csharp-contacts.pdb
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/obj/Debug/net8.0/csharp-contacts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/obj/Debug/net8.0/csharp-contacts.AssemblyInfoInputs.cache
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/obj/Debug/net8.0/csharp-contacts.AssemblyInfo.cs
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/obj/Debug/net8.0/csharp-contacts.csproj.CoreCompileInputs.cache
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/obj/Debug/net8.0/csharp-contacts.dll
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/obj/Debug/net8.0/refint/csharp-contacts.dll
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/obj/Debug/net8.0/csharp-contacts.pdb
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/obj/Debug/net8.0/csharp-contacts.genruntimeconfig.cache
+/Users/matteo/Desktop/playground/dotNet/csharp-contacts/obj/Debug/net8.0/ref/csharp-contacts.dll
